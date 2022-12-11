@@ -7,7 +7,7 @@ h1{
 }
 /* classes are more sopecific than element selector*/
 
-/* #h1id{ */
+/* #h1id{
     color: blueviolet !important;
     /* this makes it specific than others */
 /* } */

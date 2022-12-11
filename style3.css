@@ -10,3 +10,8 @@ a[href *='google']{
     color: rgb(226, 43, 186);
 }
 
+a[href^=https]{
+    color: blue;
+}
+
+
